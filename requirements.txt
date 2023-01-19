@@ -21,6 +21,7 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
+pymongo
 qbittorrent-api
 requests
 speedtest-cli
